@@ -1,4 +1,4 @@
-#Make sure to run this command in the terminal: pip install xlrd
+#Make sure to have run this command in the terminal: pip install xlrd
 import xlrd
 
 datafile = "2013_ERCOT_Hourly_Load_Data.xls"
